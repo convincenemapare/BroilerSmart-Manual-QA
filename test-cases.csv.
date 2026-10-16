@@ -1,0 +1,6 @@
+Test ID,Scenario,Expected Result,Actual Result,Status
+TC-001,Submit an empty batch name,Application rejects the name,To be recorded,Pass
+TC-002,Enter zero birds,Application rejects the quantity,Previously rejected,Pass
+TC-003,Enter a negative bird quantity,Application rejects the quantity,Previously rejected,Pass
+TC-004,Enter a decimal bird quantity,Only valid whole-number counts should be accepted,To be verified,Fail
+TC-005,Enter a spaces-only supplier name,Application should reject blank content,Previously accepted,Potential Defect
