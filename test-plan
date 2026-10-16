@@ -1,0 +1,32 @@
+# BroilerSmart Manual QA Test Plan
+
+## 1. Objective
+
+Evaluate whether the batch creation feature handles valid, invalid, and unusual inputs appropriately.
+
+## 2. Scope
+
+The initial test cycle covers batch names, supplier names, bird quantities, saving records, and persistence.
+
+## 3. Test Method
+
+Tests are performed manually. Actual behaviour is compared with expected behaviour, based on established requirements or reasonable, documented assumptions.
+
+## 4. Test Environment
+
+- Application: BroilerSmart
+- Application version: To be recorded
+- Device and operating system: To be recorded
+- Test date: To be recorded
+
+## 5. Entry Criteria
+
+The application can be opened and the batch creation feature is accessible.
+
+## 6. Exit Criteria
+
+Planned tests have recorded outcomes, potential defects have sufficient reproduction details, and unresolved questions are documented.
+
+## 7. Limitations
+
+The application requirements may not specify every input boundary. Findings that depend on unclear requirements will be recorded as observations pending clarification.
