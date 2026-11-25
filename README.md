@@ -62,5 +62,3 @@ I document findings based on observed behaviour and available evidence.
 Where expected behaviour is unclear or a result has not been verified, I identify it as an observation or an item requiring further investigation.
 
 This portfolio is a work in progress and reflects my ongoing development in software quality assurance.
-
-This portfolio is a work in progress and reflects my ongoing development in software quality assurance.
